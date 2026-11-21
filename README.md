@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <strong>Omar Ali Ahmed Shehata</strong><br/>
+  <strong>Omar Ali  Ahmed Ali Shehata</strong><br/>
   IT Support &amp; Network Technician · Computer Science &amp; Information Systems Student
 </p>
 
