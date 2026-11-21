@@ -1,86 +1,56 @@
-<h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="Waving hello"/>
-  Hey! I'm Omar Ali 👋
-</h1>
+<div align="center">
 
-<p align="center">
-  <b>Information Technology Student | IT Support | Networking</b>
-  <br/>
-  Welcome to my GitHub profile! I'm an IT student interested in computer hardware,
-  troubleshooting, networking, and cybersecurity.
-</p>
+# Omar Ali
 
-<p align="center">
-  <img src="https://img.shields.io/badge/IT%20Support-0078D4?style=flat-square&logo=windows&logoColor=white" alt="IT Support"/>
-  <img src="https://img.shields.io/badge/Computer%20Hardware-555555?style=flat-square&logo=computer&logoColor=white" alt="Computer Hardware"/>
-  <img src="https://img.shields.io/badge/Networking-1B75BB?style=flat-square&logo=cisco&logoColor=white" alt="Networking"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-2E8B57?style=flat-square&logo=shield&logoColor=white" alt="Cybersecurity"/>
-</p>
+### Information Technology Student
 
-<h3>🧑‍💻 About Me</h3>
+**IT Support · Computer Hardware · Networking**
 
-<p>
-  I'm an Information Technology student focused on IT support, computer hardware,
-  software troubleshooting, and networking. I enjoy diagnosing technical problems
-  and learning how to keep computers and networks working reliably.
-</p>
+</div>
 
-<h3>🛠️ Technical Skills</h3>
+---
+
+## Professional Profile
+
+Information Technology student building practical experience in technical support, computer hardware, software troubleshooting, and networking. Experienced in diagnosing desktop and laptop issues, installing operating systems and drivers, building and upgrading PCs, and troubleshooting network equipment and connectivity.
+
+Currently developing skills in IT support, network security, and cybersecurity through Cisco Networking Academy coursework and hands-on learning. Seeking an opportunity to contribute to an IT team and grow as an IT professional.
+
+## Core Competencies
 
 <p>
-  <img alt="Windows" src="https://img.shields.io/badge/Operating%20Systems-0078D4?style=flat-square&logo=windows&logoColor=white"/>
-  <img alt="Computer Hardware" src="https://img.shields.io/badge/Computer%20Hardware-555555?style=flat-square&logo=computer&logoColor=white"/>
-  <img alt="Cisco" src="https://img.shields.io/badge/Cisco%20Networking-1B75BB?style=flat-square&logo=cisco&logoColor=white"/>
-  <img alt="LAN/WAN" src="https://img.shields.io/badge/LAN%2FWAN-0082C9?style=flat-square&logo= internet-explorer&logoColor=white"/>
-  <img alt="VLAN" src="https://img.shields.io/badge/VLANs-6A5ACD?style=flat-square&logo=buffer&logoColor=white"/>
-  <img alt="Network Security" src="https://img.shields.io/badge/Network%20Security-2E8B57?style=flat-square&logo=shield&logoColor=white"/>
-  <img alt="Optical Fiber" src="https://img.shields.io/badge/Optical%20Fiber-FF8C00?style=flat-square&logo=光&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IT%20Support-1F4E79?style=flat-square" alt="IT Support"/>
+  <img src="https://img.shields.io/badge/Hardware%20Troubleshooting-1F4E79?style=flat-square" alt="Hardware Troubleshooting"/>
+  <img src="https://img.shields.io/badge/Windows%20Installation-1F4E79?style=flat-square" alt="Operating System Installation"/>
+  <img src="https://img.shields.io/badge/Networking-1F4E79?style=flat-square" alt="Networking"/>
+  <img src="https://img.shields.io/badge/Cisco-1F4E79?style=flat-square&logo=cisco&logoColor=white" alt="Cisco"/>
+  <img src="https://img.shields.io/badge/Network%20Security-1F4E79?style=flat-square" alt="Network Security"/>
+  <img src="https://img.shields.io/badge/Optical%20Fiber-1F4E79?style=flat-square" alt="Optical Fiber"/>
 </p>
 
-<ul>
-  <li>Diagnosing and repairing desktop and laptop hardware</li>
-  <li>Building and upgrading PCs</li>
-  <li>Installing operating systems and drivers</li>
-  <li>Troubleshooting software and computer issues</li>
-  <li>Working with LAN/WAN networks, Cisco routers and switches, and VLANs</li>
-  <li>Optical fiber installation and troubleshooting</li>
-  <li>Learning network security concepts</li>
-</ul>
+| Area | Practical Knowledge |
+|---|---|
+| **IT Support** | Hardware diagnosis, software troubleshooting, operating system and driver installation |
+| **Computer Hardware** | Desktop and laptop repair, PC building, component upgrades |
+| **Networking** | LAN/WAN, Cisco routers and switches, VLANs |
+| **Network Infrastructure** | Optical fiber installation and troubleshooting |
+| **Security** | Network security fundamentals |
 
-<h3>🎓 Cisco Networking Academy</h3>
+## Cisco Networking Academy
 
-<ul>
-  <li>IT Essentials</li>
-  <li>CCNAv7: Introduction to Networks</li>
-  <li>CCNAv7: Switching, Routing, and Wireless Essentials</li>
-  <li>CCNAv7: Enterprise Networking, Security, and Automation</li>
-</ul>
+- **IT Essentials**
+- **CCNAv7: Introduction to Networks**
+- **CCNAv7: Switching, Routing, and Wireless Essentials**
+- **CCNAv7: Enterprise Networking, Security, and Automation**
 
-<h3>🌱 Currently Learning</h3>
+## Current Focus
 
-<p>
-  I'm continuing to develop my skills in IT support, networking, and cybersecurity
-  through practical learning and projects.
-</p>
+Developing practical skills in IT support, networking, and cybersecurity through continued study and hands-on projects.
 
-<h3>🎯 Career Goal</h3>
+---
 
-<p>
-  I'm looking for an opportunity to contribute to an IT team, solve technical
-  problems, support users, and grow as an IT professional.
-</p>
+<div align="center">
 
-<h3>📫 Where to Find Me</h3>
+*Open to opportunities to support users, troubleshoot technical issues, and contribute to an IT team.*
 
-<p>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank">
-    <img
-      alt="GitHub"
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <i>Thanks for visiting my profile! 🚀</i>
-</p>
+</div>
