@@ -1,8 +1,8 @@
 <div align="center">
 
-# Omar Ali Ahmed Shehata
+# Omar Ali Ahmed Ali Shehata
 
-### IT Support & Network Technician
+###  Network security ###
 
 **Computer Science & Information Systems Student**  
 Egypt · 3+ years of hands-on technical experience
@@ -56,8 +56,8 @@ I’m continuing to develop my skills in **IT support, Cisco networking, and cyb
 
 ### Additional Training
 
-- PC Maintenance: Hardware & Software — **MICA**
-- Optical Fiber Network Installation & Troubleshooting — **NSP via MICA**
+- PC Maintenance: Hardware & Software — 
+- Optical Fiber Network Installation & Troubleshooting — **NSP *
 - Network & Computer Summer Course — **MICA**
 
 ---
